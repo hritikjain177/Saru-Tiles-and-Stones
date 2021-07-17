@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(15, 6, 6);
+    color: bisque ;
+}
+#main-header{
+    border: 2px solid red;
+    background-image: url(images/backgrounds/bg1.jpeg);
+}
+#logo{
+    height: 150px;
+    width: 150px;
+    float: right;
+}
+#mainlogo{
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+#shop_name{
+    text-align: center;
+    color: cornsilk;
+    font-size: 61px;
+}
+#nav_bar{
+    width: 100%;
+    background-color: crimson ;
+    height: 40px;
+    font-size: 30px;
+}
+.nav1{
+    text-decoration: none;
+    color: bisque ;
+}
+.nav1:hover{
+    color: greenyellow;
+}
+.p1{
+    color: bisque ;
+    font-size: 25px;
+}
+.typerow{
+    padding: 5px;
+}
+.type1{
+    width: 33%;
+    height: 300px;
+    margin: 0 auto;
+}   
+.position1{
+    position: relative;
+    float: right;
+}
+.position2{
+    position: relative;
+    float: left;
+}
+.imgsize{
+    width: 85%;
+    height: 250px;
+    border: 1px solid red; 
+    border-radius: 5%;
+}
+.typename{
+    font-size: 25px;
+    line-height: 2px;
+    padding-right: 14%;
+    text-align: center;
+}
+.subheading{
+    color: lightsteelblue;
+}
+#categories{
+    font-size: 20px;
+}
+
+
+#contact{
+    background-color: rgb(66, 65, 65);
+}
+.link1{
+    text-decoration: none;
+    color: bisque ;
+}
+.divgallery{
+    margin: 15px; 
+    border: 3px solid grey; 
+    border-radius: 5%;
+}
+.bg_a{
+    background-image: url(images/backgrounds/bg3.jpg);
+    color: darkgreen;
+}
+.bg_b{
+    background-image: url(images/backgrounds/bg4.jpg);
+}
+.gallery{
+    width: 68%;
+    border-radius: 5%;
+}
+.info{
+    width: 28%;
+    font-size: 25px;
+    float: right;
+    margin-right: 5px;
+}
